@@ -1,5 +1,10 @@
 {
-    "name": "koder2/mysqli-wrapper",
-    "minimum-stability": "stable",
-    "require": {}
+    "name": "koder2/mysqli",
+    "description": "mysqli wrapper",
+    "type": "library",
+    "require": {
+        "php": "5.0.0"
+    },
+    "license": "MIT",
+    "minimum-stability": "dev"
 }
