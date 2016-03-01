@@ -1,0 +1,11 @@
+{
+    "name": "koder2/mysqli-wrapper",
+    "description": "Mysqli wrapper",
+    "authors": [
+        {
+            "name": "A N",
+            "email": "koder2@miladoma.ru"
+        }
+    ],
+    "require": {}
+}
